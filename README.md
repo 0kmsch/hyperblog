@@ -1,1 +1,2 @@
 # hyperblog
+lorem ipsum
